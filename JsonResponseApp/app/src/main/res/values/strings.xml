@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JsonResponseApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="read_rows_info">Enter number of rows</string>
+    <array name="querry_options" >
+        <item>"Books"</item>
+        <item>"Videos"</item>
+        <item>"News"</item>
+        <item>"Music"</item>
+    </array>
+</resources>
